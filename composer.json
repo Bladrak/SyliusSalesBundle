@@ -1,4 +1,4 @@
-{
+{ 
     "name": "bladrak/sales-bundle",
     "type": "symfony-bundle",
     "description": "Sales order management for Symfony2 applications.",
