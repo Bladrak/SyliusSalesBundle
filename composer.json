@@ -1,5 +1,5 @@
 {
-    "name": "sylius/sales-bundle",
+    "name": "bladrak/sales-bundle",
     "type": "symfony-bundle",
     "description": "Sales order management for Symfony2 applications.",
     "keywords": ["shop", "ecommerce", "sales", "orders", "order"],
@@ -10,6 +10,11 @@
             "name": "Paweł Jędrzejewski",
             "email": "pjedrzejewski@diweb.pl",
             "homepage": "http://pjedrzejewski.com"
+        },
+        {
+            "name": "Hugo Briand",
+            "email": "hbriand@neotiq.com",
+            "homepage": "http://www.neotiq.com"
         },
         {
             "name": "Community contributions",
